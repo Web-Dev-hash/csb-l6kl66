@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://web-dev-hash.github.io/csb-l6kl66/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://web-dev-hash.github.io/csb-l6kl66/static/js/main.53596857.chunk.js",
+    "main.js.map": "https://web-dev-hash.github.io/csb-l6kl66/static/js/main.53596857.chunk.js.map",
+    "runtime-main.js": "https://web-dev-hash.github.io/csb-l6kl66/static/js/runtime-main.bf6e8caf.js",
+    "runtime-main.js.map": "https://web-dev-hash.github.io/csb-l6kl66/static/js/runtime-main.bf6e8caf.js.map",
+    "static/js/2.ac49db53.chunk.js": "https://web-dev-hash.github.io/csb-l6kl66/static/js/2.ac49db53.chunk.js",
+    "static/js/2.ac49db53.chunk.js.map": "https://web-dev-hash.github.io/csb-l6kl66/static/js/2.ac49db53.chunk.js.map",
+    "index.html": "https://web-dev-hash.github.io/csb-l6kl66/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://web-dev-hash.github.io/csb-l6kl66/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.ac49db53.chunk.js.LICENSE.txt": "https://web-dev-hash.github.io/csb-l6kl66/static/js/2.ac49db53.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf6e8caf.js",
+    "static/js/2.ac49db53.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.53596857.chunk.js"
+  ]
+}
